@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\repos\\RealEstate\\ui\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|c:\\repos\\realestate\\ui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|c:\\repos\\realestate\\ui\\views\\shared\\components\\_navbarviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|solutionrelative:views\\shared\\components\\_navbarviewcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|c:\\repos\\realestate\\ui\\views\\shared\\_defaultlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|solutionrelative:views\\shared\\_defaultlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|c:\\repos\\realestate\\ui\\wwwroot\\starter\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|solutionrelative:wwwroot\\starter\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|c:\\repos\\realestate\\ui\\viewcomponents\\layout\\_navbarviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|solutionrelative:viewcomponents\\layout\\_navbarviewcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|c:\\repos\\realestate\\ui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|c:\\repos\\realestate\\ui\\wwwroot\\starter\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F015F514-49D8-4B04-A5B8-D768EB098DCE}|RealEstateDapperUI.csproj|solutionrelative:wwwroot\\starter\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\repos\\RealEstate\\ui\\Views\\Shared\\Components\\_NavbarViewComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_NavbarViewComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\repos\\RealEstate\\ui\\Views\\Shared\\Components\\_NavbarViewComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_NavbarViewComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:22:34.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_NavbarViewComponentPartial.cs",
+              "DocumentMoniker": "C:\\repos\\RealEstate\\ui\\ViewComponents\\Layout\\_NavbarViewComponentPartial.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\Layout\\_NavbarViewComponentPartial.cs",
+              "ToolTip": "C:\\repos\\RealEstate\\ui\\ViewComponents\\Layout\\_NavbarViewComponentPartial.cs",
+              "RelativeToolTip": "ViewComponents\\Layout\\_NavbarViewComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:21:16.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\repos\\RealEstate\\ui\\wwwroot\\starter\\contact.html",
+              "RelativeDocumentMoniker": "wwwroot\\starter\\contact.html",
+              "ToolTip": "C:\\repos\\RealEstate\\ui\\wwwroot\\starter\\contact.html",
+              "RelativeToolTip": "wwwroot\\starter\\contact.html",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-21T07:11:56.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\repos\\RealEstate\\ui\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\repos\\RealEstate\\ui\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:11:22.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_DefaultLayout.cshtml",
+              "DocumentMoniker": "C:\\repos\\RealEstate\\ui\\Views\\Shared\\_DefaultLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DefaultLayout.cshtml",
+              "ToolTip": "C:\\repos\\RealEstate\\ui\\Views\\Shared\\_DefaultLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_DefaultLayout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T07:10:52.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\repos\\RealEstate\\ui\\wwwroot\\starter\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\starter\\index.html",
+              "ToolTip": "C:\\repos\\RealEstate\\ui\\wwwroot\\starter\\index.html",
+              "RelativeToolTip": "wwwroot\\starter\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-21T07:09:20.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\repos\\RealEstate\\ui\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\repos\\RealEstate\\ui\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:09:13.246Z",
+              "EditorCaption": ""
             }
           ]
         }
