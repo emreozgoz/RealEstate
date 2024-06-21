@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealEstateDapperUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+313de483c9c7931343550ee8f5f5b08131991e3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dae3d05f1a619caa3c3e9b0b94bfb5082b409ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealEstateDapperUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealEstateDapperUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
